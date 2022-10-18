@@ -18,4 +18,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianramadhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianramadhan&show_icons=true&locale=en" alt="adrianramadhan" align="right" height="150" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianramadhan&show_icons=true&theme=radical)
