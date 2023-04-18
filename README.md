@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Ramadhan</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Flutter Developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **adrianramadhan881@gmail.com**
 
