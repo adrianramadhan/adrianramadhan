@@ -1,4 +1,7 @@
 # 💫 About Me:
+Never Stop Learning
+Flutter & Python Enthusiast
+
 🌱 I’m currently learning **Flutter**<br><br>📫 How to reach me adrianramadhan881@gmail.com
 
 
