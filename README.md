@@ -1,7 +1,7 @@
 # 💫 About Me:
-**Flutter & JavaScript Enthusiast**
+**JavaScript Enthusiast**
 
-🌱 I’m currently learning **Flutter**<br><br>📫 How to reach me adrianramadhan881@gmail.com
+🌱 I’m currently learning **Enterprise Resource Planner & Project Management**<br><br>📫 How to reach me adrianramadhan881@gmail.com
 
 
 ## 🌐 Socials:
