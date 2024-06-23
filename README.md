@@ -1,7 +1,7 @@
 # 💫 About Me:
-**JavaScript Enthusiast**
+**BackEnd Enthusiast**
 
-🌱 I’m currently learning **JavaScript**<br><br>📫 How to reach me adrianramadhan881@gmail.com
+🌱 I’m currently learning **PHP, JavaScript, and Golang**<br><br>📫 How to reach me adrianramadhan881@gmail.com
 
 
 ## 🌐 Socials:
