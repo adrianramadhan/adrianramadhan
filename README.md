@@ -19,9 +19,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianramadhan&show_icons=true&locale=en&theme=tokyonight" alt="adrianramadhan" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianramadhan&theme=tokyonight" alt="adrianramadhan" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianramadhan&" alt="adrianramadhan" /></p>
 
 
 ### ✍️ Random Dev Quote
