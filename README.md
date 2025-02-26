@@ -1,7 +1,7 @@
 # 💫 About Me:
-**BackEnd Enthusiast**
+**AI Enthusiast**
 
-🌱 I’m currently learning **JavaScript, and Golang**<br><br>📫 How to reach me adrianramadhan881@gmail.com
+🌱 I’m currently learning **AI Engineering**<br><br>📫 How to reach me adrianramadhan881@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hrAbCFAy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adrian_ramadhan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adrian-ramadhan-0750541b7/) 
