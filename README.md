@@ -43,8 +43,7 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianramadhan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adrianramadhan" />
+<p>  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianramadhan&layout=compact&theme=algolia&langs_count=10"/>
 </p>
 
 <p>&nbsp;
