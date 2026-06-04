@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Backend Software Engineer**
+**Fullstack Software Engineer**
 
 🌱 I’m currently learning **AI Engineering**<br><br>📫 How to reach me adrianramadhan881@gmail.com
 
